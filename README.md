@@ -125,14 +125,5 @@ pip install -r requirements.txt
 
 This project is licensed under the MIT License. Feel free to use and build on it.
 
-```
 
----
 
-Let me know if you'd like a second version including:
-- YOLOv5-based face detection
-- Deployment instructions (e.g., Streamlit or Flask)
-- Dataset download instructions from Kaggle
-
-Would you like me to generate the `requirements.txt` too?
-```
